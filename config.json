@@ -1,0 +1,50 @@
+{
+    "image_path": "image.jpg",
+    "image_start_coords": [ 849,537],
+    "thread_delay": 2,
+    "unverified_place_frequency": false,
+    "compact_logging": true,
+    "workers": {
+        "woodisafemboy1": {
+            "password": "wood@1234",
+            "start_coords": [ 849,537]
+        },
+        "woodisafemboy2": {
+            "password": "wood@1234",
+            "start_coords": [ 849,537]
+        },
+        "woodisafemboy3": {
+            "password": "wood@1234",
+            "start_coords": [ 849,537]
+        },
+        "woodisafemboy4": {
+            "password": "wood@1234",
+            "start_coords": [ 849,537]
+        },
+        "woodisafemboy5": {
+            "password": "wood@1234",
+            "start_coords": [ 849,537]
+        },
+        "woodisafemboy6": {
+            "password": "wood@1234",
+            "start_coords": [ 849,537]
+        },
+        "woodisafemboy7": {
+            "password": "wood@1234",
+            "start_coords": [ 849,537]
+        },
+        "woodisafemboy8": {
+            "password": "wood@1234",
+            "start_coords": [ 849,537]
+        },
+        "woodisafemboy9": {
+            "password": "wood@1234",
+            "start_coords": [ 849,537]
+        },
+        "woodisafemboy10": {
+            "password": "wood@1234",
+            "start_coords": [ 849,537]
+        }
+            
+    }
+}
